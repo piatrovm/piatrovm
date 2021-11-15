@@ -1,3 +1,0 @@
-- 👋 Hi, I’m Maryana Piatrova
-- 👀 I’m interested in Javascript, Typescript and Node.js
-- 🌱 I’m currently learning Typescript
